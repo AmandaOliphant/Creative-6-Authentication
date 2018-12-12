@@ -1,0 +1,62 @@
+body {
+  background: url('images/background.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.top-buffer {
+    margin-top: 10px;
+}
+
+.profile-picture {
+    width: 40px;
+    height: auto;
+    border-radius: 20px;
+    float: left;
+    margin-right: 10px;
+}
+
+#welcome-status {
+    position: relative;
+    font-family: "Geneva";
+    color: black;
+}
+
+.font-geneva {
+    font-family: "Geneva";
+    color: white;
+}
+
+.form-geneva {
+    font-family: "Geneva";
+    color: black;
+}
+
+.photo-header {
+    background: rgb(0, 59, 153);
+    background: rgba(0, 59, 153, 0.75);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+      
+}
+
+.photo-form-header {
+    font-family: "Geneva";
+    margin-top: 10px;
+    color: white;
+}
+
+.background-light {
+  background: rgb(204, 204, 204);
+  background: rgba(204, 204, 204, 0.75);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.img-card-custom {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}

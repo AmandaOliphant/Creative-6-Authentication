@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  background: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4UUSXxPtlik2jv75z/videoblocks-antarctic-nature-stony-island-in-ocean-beautiful-colorful-sunset-cloudy-sky-snow-falling-majestic-winter-landscape-beauty-world-holidays-sports-and-recreation-travel-background-slow-motion-4k_syqnkfece_thumbnail-full01.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.background-light {
+  background: rgb(204, 204, 204);
+  background: rgba(204, 204, 204, 0.85);
+  border-radius: 5px;
+  color: black;
+  padding: 10px;
+  font-family: "Comic Sans MS";
+}

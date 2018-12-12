@@ -1,0 +1,8 @@
+nohup: ignoring input
+[0mGET /index.html [36m304 [0m7.362 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.550 ms - -[0m
+[0mGET / [36m304 [0m1.224 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.932 ms - -[0m
+[0mGET / [36m304 [0m0.928 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.374 ms - -[0m
+[0mGET / [32m200 [0m4.269 ms - 2566[0m
